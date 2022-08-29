@@ -1,0 +1,6 @@
+hr_id,Employee_id,Cycle,Top-up,Topup-amount,EMI,Status
+1,101,2020-2021,Yes,"1,00,000","10,023",Active
+2,102,2019-2020,No,-,-,Inactive
+3,103,2020-2021,No,-,-,Inactive
+4,104,2020-2022,Yes,"1,20,000",5250,"Pending "
+5,105,2018-2022,Yes,"2,00,000",4102,Pending

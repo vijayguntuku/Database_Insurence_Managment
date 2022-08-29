@@ -1,0 +1,6 @@
+Employee_id,Employee_name,"Blood Group","Mobile number","Marital Status",Nominee_id,Top-up,Topup_amount
+101,Vijay,O+,9381743675,Single,1,Yes,"1,00,000"
+102,Manoj,AB-,9154313796,Married,8,No,-
+103,Jaya,B+,9491206299,Married,6,No,-
+104,Aditya,O+,9705220772,Single,4,Yes,"1,50,000"
+105,Anusha,A-,9956728762,Single,5,Yes,"1,25,000"
